@@ -1,0 +1,28 @@
+.portfolio {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.title {
+    margin-right: 80px;
+}
+
+.card{
+    width: 18rem;
+}
+
+.fig-caption {
+    font-family: 'Jura', sans-serif;
+    color: #f14668;
+    text-align: center;
+}
+
+.title{
+    font-family: 'Jura', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.field {
+    align-items: center;
+}
